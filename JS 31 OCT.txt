@@ -1,0 +1,21 @@
+Git - Sistema de control de versiones
+Manejar el versionamiento de los proyectos
+
+Cada punto es un commit 
+
+README.md Sirve para dar instracciones para que otros desarrolladores hagan uso del proyecto.
+
+git.ignore Solo las carpetas librerias y otras coracteristicas
+
+SHA llaves primarias sirven para darle una identificacion
+
+Llave SSH encriptacion
+
+ls ~/.ssh : sirve pára ver si algun directorio o carpeta tiene la clave SSH
+
+ssh-keygen -t rsa -b 4096 -C "santyaviramagnf@gmail.com"   : Sirve para crear una llave SSH 
+
+git config --global core.autocrlf true : para compatibilidad de espciado o saltos de linea en SO
+/home/santiago/.ssh/id_rsa : Ruta donde queda guardada al llave SSH 
+
+Hacer una presentacion de power point deben presentar el proyecto en el que van a trabajar 
