@@ -14,9 +14,7 @@ a = 5;
 b = 10
 c = a + b;
 
-let resultado = document.getElementById("resultado").innerHTML = "El resultado de la suma es: " + c;
-
-let edad = document.getElementById("edad")
+let resultado = document.getElementById("resultado").innerHTML = "El resultado de la suma es: " + c;t edad = document.getElementById("edad")
 let btnEnviar = document.getElementById("btnEnviar")
 let verificacionEdad = document.getElementById("verificacion-edad")
 
